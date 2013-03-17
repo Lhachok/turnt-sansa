@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+public clas Helloworld
+{
+ public static void main( String [] args)
+{
+ System.out.println("Hello beautiful world");
+}
+}
